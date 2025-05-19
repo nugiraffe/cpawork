@@ -1,0 +1,152 @@
+﻿[
+  {
+    "PNAME": "Vanila",
+    "GNAME": "Vanila IceCream corn",
+    "COST": "6",
+    "MSRP": "12",
+    "QTYOHAND": "10",
+    "QTYBORDER": "20",
+    "DESC": "Creamy and airy soft Vanila IceCream. Perfect pair with freshly baked brownie and espresso.",
+    "BRAND": "Maeil"
+  },
+  {
+    "PNAME": "Chocolate chunk",
+    "GNAME": "Chocolate chip melting IceCream",
+    "COST": "7",
+    "MSRP": "15",
+    "QTYOHAND": "3",
+    "QTYBORDER": "40",
+    "DESC": "Chill down and taste some rich chocolate. It's Zero calory when you eating delightfully.",
+    "BRAND": "Maeil"
+  },
+  {
+    "PNAME": "Strawberry",
+    "GNAME": "Tower of mint chocolate IceCream",
+    "COST": "12",
+    "MSRP": "20",
+    "QTYOHAND": "10",
+    "QTYBORDER": "20",
+    "DESC": "Always fresh and cool. Real strawberry and fruit included. Pretty pink color look so lovely!",
+    "BRAND": "Maeil"
+  },
+  {
+    "PNAME": "Mint with chocolate chips",
+    "GNAME": "IceCream corn",
+    "COST": "6",
+    "MSRP": "12",
+    "QTYOHAND": "10",
+    "QTYBORDER": "20",
+    "DESC": "Feel extra freshness. crispy chocolate makes you happy. Melting happiness on your tongue",
+    "BRAND": "Maeil"
+  },
+  {
+    "PNAME": "Matcha",
+    "GNAME": "Green IceCream spoon",
+    "COST": "20",
+    "MSRP": "35",
+    "QTYOHAND": "2",
+    "QTYBORDER": "30",
+    "DESC": "Fresh flavor from Jeju Island. Milky and soft. Seller's choice of the day. Never miss new product sale!",
+    "BRAND": "Maeil"
+  },
+  {
+    "PNAME": "Cookie Dough",
+    "GNAME": "Stack of cookies",
+    "COST": "4",
+    "MSRP": "10",
+    "QTYOHAND": "5",
+    "QTYBORDER": "10",
+    "DESC": "Looking for something special? Try Cookie dough IceCream instead of cookie! How about make a sanded icecream with cookies?",
+    "BRAND": "Ben & Jerry's"
+  },
+  {
+    "PNAME": "Cherry jubilee",
+    "GNAME": "Cherry on top",
+    "COST": "7",
+    "MSRP": "15",
+    "QTYOHAND": "8",
+    "QTYBORDER": "23",
+    "DESC": "Cherry picking for the best icecream. Did you know cherry helps people to sleep well? Don't fell asleep before lab is done.",
+    "BRAND": "Ben & Jerry's"
+  },
+  {
+    "PNAME": "Cotton Candy",
+    "GNAME": "IceCream corn",
+    "COST": "6",
+    "MSRP": "12",
+    "QTYOHAND": "10",
+    "QTYBORDER": "20",
+    "DESC": "Creamy and airy soft Vanila IceCream. Perfect pair with freshly baked brownie and espresso.",
+    "BRAND": "Ben & Jerry's"
+  },
+  {
+    "PNAME": "Salted Caramel",
+    "GNAME": "IceCream corn",
+    "COST": "6",
+    "MSRP": "12",
+    "QTYOHAND": "10",
+    "QTYBORDER": "20",
+    "DESC": "Creamy and airy soft Vanila IceCream. Perfect pair with freshly baked brownie and espresso.",
+    "BRAND": "Ben & Jerry's"
+  },
+  {
+    "PNAME": "Cheese Cake",
+    "GNAME": "IceCream corn",
+    "COST": "6",
+    "MSRP": "12",
+    "QTYOHAND": "10",
+    "QTYBORDER": "20",
+    "DESC": "Creamy and airy soft Vanila IceCream. Perfect pair with freshly baked brownie and espresso.",
+    "BRAND": "Ben & Jerry's"
+  },
+  {
+    "PNAME": "Pistachio",
+    "GNAME": "IceCream corn",
+    "COST": "6",
+    "MSRP": "12",
+    "QTYOHAND": "10",
+    "QTYBORDER": "20",
+    "DESC": "Creamy and airy soft Vanila IceCream. Perfect pair with freshly baked brownie and espresso.",
+    "BRAND": "Haagen-Dazs"
+  },
+  {
+    "PNAME": "Walnut",
+    "GNAME": "IceCream corn",
+    "COST": "6",
+    "MSRP": "12",
+    "QTYOHAND": "10",
+    "QTYBORDER": "20",
+    "DESC": "Creamy and airy soft Vanila IceCream. Perfect pair with freshly baked brownie and espresso.",
+    "BRAND": "Haagen-Dazs"
+  },
+  {
+    "PNAME": "Macadamia",
+    "GNAME": "IceCream corn",
+    "COST": "6",
+    "MSRP": "12",
+    "QTYOHAND": "10",
+    "QTYBORDER": "20",
+    "DESC": "Creamy and airy soft Vanila IceCream. Perfect pair with freshly baked brownie and espresso.",
+    "BRAND": "Haagen-Dazs"
+  },
+  {
+    "PNAME": "Pinapple",
+    "GNAME": "IceCream corn",
+    "COST": "6",
+    "MSRP": "12",
+    "QTYOHAND": "10",
+    "QTYBORDER": "20",
+    "DESC": "Creamy and airy soft Vanila IceCream. Perfect pair with freshly baked brownie and espresso.",
+    "BRAND": "Haagen-Dazs"
+  },
+  {
+    "PNAME": "Cookie & Cream",
+    "GNAME": "IceCream corn",
+    "COST": "6",
+    "MSRP": "12",
+    "QTYOHAND": "10",
+    "QTYBORDER": "20",
+    "DESC": "Creamy and airy soft Vanila IceCream. Perfect pair with freshly baked brownie and espresso.",
+    "BRAND": "Haagen-Dazs"
+  }
+]
