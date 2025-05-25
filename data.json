@@ -1,7 +1,7 @@
 [
   {
-    "PNAME": "Vanila",
-    "GNAME": "Vanila IceCream corn",
+    "PNAME": "Vanilla",
+    "GNAME": "vanilla.png",
     "COST": "6",
     "MSRP": "12",
     "QTYOHAND": "10",
@@ -10,8 +10,8 @@
     "BRAND": "Ben & Jerry's"
   },
   {
-    "PNAME": "Chocolate chunk",
-    "GNAME": "Chocolate chip melting IceCream",
+    "PNAME": "Chocolate Theraphy",
+    "GNAME": "chocolate.png",
     "COST": "7",
     "MSRP": "15",
     "QTYOHAND": "3",
@@ -20,8 +20,8 @@
     "BRAND": "Ben & Jerry's"
   },
   {
-    "PNAME": "Strawberry",
-    "GNAME": "Tower of mint chocolate IceCream",
+    "PNAME": "Strawberry Cheesecake",
+    "GNAME": "strawberry.png",
     "COST": "12",
     "MSRP": "20",
     "QTYOHAND": "10",
@@ -31,7 +31,7 @@
   },
   {
     "PNAME": "Mint with chocolate chips",
-    "GNAME": "IceCream corn",
+    "GNAME": "mintchocolate.jpg",
     "COST": "6",
     "MSRP": "12",
     "QTYOHAND": "10",
@@ -41,7 +41,7 @@
   },
   {
     "PNAME": "Matcha",
-    "GNAME": "Green IceCream spoon",
+    "GNAME": "matcha.jpg",
     "COST": "20",
     "MSRP": "35",
     "QTYOHAND": "2",
@@ -51,7 +51,7 @@
   },
   {
     "PNAME": "Cookie Dough",
-    "GNAME": "Stack of cookies",
+    "GNAME": "cookiedough.jpg",
     "COST": "4",
     "MSRP": "10",
     "QTYOHAND": "5",
@@ -60,8 +60,8 @@
     "BRAND": "DippinDot's"
   },
   {
-    "PNAME": "Cherry jubilee",
-    "GNAME": "Cherry on top",
+    "PNAME": "Cherry and Bluelasberry",
+    "GNAME": "cherry.jpg",
     "COST": "7",
     "MSRP": "15",
     "QTYOHAND": "8",
@@ -71,7 +71,7 @@
   },
   {
     "PNAME": "Cotton Candy",
-    "GNAME": "IceCream corn",
+    "GNAME": "cottoncandy.jpg",
     "COST": "6",
     "MSRP": "12",
     "QTYOHAND": "10",
@@ -81,7 +81,7 @@
   },
   {
     "PNAME": "Salted Caramel",
-    "GNAME": "IceCream corn",
+    "GNAME": "slatcaramel.jpg",
     "COST": "6",
     "MSRP": "12",
     "QTYOHAND": "10",
@@ -91,7 +91,7 @@
   },
   {
     "PNAME": "Cheese Cake",
-    "GNAME": "IceCream corn",
+    "GNAME": "cheesecake.jpg",
     "COST": "6",
     "MSRP": "12",
     "QTYOHAND": "10",
@@ -101,7 +101,7 @@
   },
   {
     "PNAME": "Pistachio",
-    "GNAME": "IceCream corn",
+    "GNAME": "pistachio.jpg",
     "COST": "6",
     "MSRP": "12",
     "QTYOHAND": "10",
@@ -111,7 +111,7 @@
   },
   {
     "PNAME": "Walnut",
-    "GNAME": "IceCream corn",
+    "GNAME": "walnut.png",
     "COST": "6",
     "MSRP": "12",
     "QTYOHAND": "10",
@@ -121,7 +121,7 @@
   },
   {
     "PNAME": "Macadamia",
-    "GNAME": "IceCream corn",
+    "GNAME": "macadamia.jpg",
     "COST": "6",
     "MSRP": "12",
     "QTYOHAND": "10",
@@ -130,8 +130,8 @@
     "BRAND": "Haagen-Dazs"
   },
   {
-    "PNAME": "Pinapple",
-    "GNAME": "IceCream corn",
+    "PNAME": "Pinapple Coconut",
+    "GNAME": "pineapple.jpg",
     "COST": "6",
     "MSRP": "12",
     "QTYOHAND": "10",
@@ -141,7 +141,7 @@
   },
   {
     "PNAME": "Cookie & Cream",
-    "GNAME": "IceCream corn",
+    "GNAME": "cookiecream.jpg",
     "COST": "6",
     "MSRP": "12",
     "QTYOHAND": "10",
