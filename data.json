@@ -76,7 +76,7 @@
     "MSRP": "12",
     "QTYOHAND": "10",
     "QTYBORDER": "20",
-    "DESC": "Creamy and airy soft Vanila IceCream. Perfect pair with freshly baked brownie and espresso.",
+    "DESC": "Feel snowflake on your tongue. Taste this unique Cottoncandy flavor IceCream. Serve with a toy cup.",
     "BRAND": "DippinDot's"
   },
   {
@@ -86,7 +86,7 @@
     "MSRP": "12",
     "QTYOHAND": "10",
     "QTYBORDER": "20",
-    "DESC": "Creamy and airy soft Vanila IceCream. Perfect pair with freshly baked brownie and espresso.",
+    "DESC": "Feel snowflake on your tongue. Taste this unique Salted caramel flavor IceCream. Serve with a toy cup.",
     "BRAND": "DippinDot's"
   },
   {
@@ -96,7 +96,7 @@
     "MSRP": "12",
     "QTYOHAND": "10",
     "QTYBORDER": "20",
-    "DESC": "Creamy and airy soft Vanila IceCream. Perfect pair with freshly baked brownie and espresso.",
+    "DESC": "Feel snowflake on your tongue. Taste this unique Cheesecake flavor IceCream. Serve with a toy cup.",
     "BRAND": "DippinDot's"
   },
   {
@@ -106,47 +106,47 @@
     "MSRP": "12",
     "QTYOHAND": "10",
     "QTYBORDER": "20",
-    "DESC": "Creamy and airy soft Vanila IceCream. Perfect pair with freshly baked brownie and espresso.",
+    "DESC": "Creamy and airy soft pistachio IceCream. Perfect pair with freshly baked brownie and espresso. Enjoy weekly discount.",
     "BRAND": "Haagen-Dazs"
   },
   {
     "PNAME": "Walnut",
     "GNAME": "walnut.png",
-    "COST": "6",
-    "MSRP": "12",
+    "COST": "7",
+    "MSRP": "19",
     "QTYOHAND": "10",
     "QTYBORDER": "20",
-    "DESC": "Creamy and airy soft Vanila IceCream. Perfect pair with freshly baked brownie and espresso.",
+    "DESC": "Creamy and airy soft Walnut IceCream. Perfect pair with freshly baked brownie and espresso. Premium line.",
     "BRAND": "Haagen-Dazs"
   },
   {
     "PNAME": "Macadamia",
     "GNAME": "macadamia.jpg",
-    "COST": "6",
-    "MSRP": "12",
+    "COST": "8",
+    "MSRP": "20",
     "QTYOHAND": "10",
     "QTYBORDER": "20",
-    "DESC": "Creamy and airy soft Vanila IceCream. Perfect pair with freshly baked brownie and espresso.",
+    "DESC": "Creamy and airy soft Macadamia IceCream. Perfect pair with freshly baked brownie and espresso. Premium line.",
     "BRAND": "Haagen-Dazs"
   },
   {
     "PNAME": "Pinapple Coconut",
     "GNAME": "pineapple.jpg",
-    "COST": "6",
+    "COST": "3",
     "MSRP": "12",
     "QTYOHAND": "10",
     "QTYBORDER": "20",
-    "DESC": "Creamy and airy soft Vanila IceCream. Perfect pair with freshly baked brownie and espresso.",
+    "DESC": "Creamy and airy soft Pineapple and coconut IceCream. Perfect pair with freshly baked brownie and espresso. Premium line.",
     "BRAND": "Haagen-Dazs"
   },
   {
     "PNAME": "Cookie & Cream",
     "GNAME": "cookiecream.jpg",
-    "COST": "6",
+    "COST": "4",
     "MSRP": "12",
     "QTYOHAND": "10",
     "QTYBORDER": "20",
-    "DESC": "Creamy and airy soft Vanila IceCream. Perfect pair with freshly baked brownie and espresso.",
+    "DESC": "Creamy and airy soft Cooki and cream IceCream. Perfect pair with freshly baked brownie and espresso.",
     "BRAND": "Haagen-Dazs"
   }
 ]
